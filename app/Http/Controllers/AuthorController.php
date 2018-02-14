@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-
+//123456
 use Illuminate\Http\Request;
 use App\Author;
 
